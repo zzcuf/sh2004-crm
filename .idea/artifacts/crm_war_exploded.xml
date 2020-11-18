@@ -1,0 +1,75 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="crm:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/crm</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="crm/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="crm" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.3" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.5" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:4.1.6" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.1" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.2" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: javax.persistence:persistence-api:1.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jsp-api:2.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.3" />
+          <element id="library" level="project" name="Maven: junit:junit:4.11" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.36" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.8" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:2.0.3" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.3.RELEASE" />
+          <element id="library" level="project" name="Maven: tk.mybatis:mapper:4.1.5" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/annotations-api.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/catalina-ant.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/catalina-ha.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/catalina-ssi.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/catalina-storeconfig.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/catalina.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/ecj-4.15.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/el-api.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/jasper-el.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/jasper.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/jaspic-api.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/jsp-api.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/servlet-api.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-api.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-cs.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-de.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-ko.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-pt-BR.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-ru.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-i18n-zh-CN.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-util.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="E:/下载文件/apache-tomcat-9.0.39/lib/websocket-api.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
